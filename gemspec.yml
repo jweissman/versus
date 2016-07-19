@@ -1,6 +1,6 @@
 name: versus
-summary: "TODO: Summary"
-description: "TODO: Description"
+summary: "world generator"
+description: "generate and simulate imaginary worlds"
 license: MIT
 authors: Joseph Weissman
 email: jweissman1986@gmail.com
